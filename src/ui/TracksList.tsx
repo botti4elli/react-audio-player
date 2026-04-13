@@ -1,5 +1,5 @@
 import {TrackItem} from "./TrackItem.tsx";
-import {useTracks} from "../BLL/UseTracks.tsx";
+import {useTracks} from "../bll/UseTracks.tsx";
 import styles from "./TracksList.module.css";
 
 type Props = {

@@ -3,7 +3,7 @@
 // import {PageTitle} from "./PageTitle.tsx";
 import {TracksList} from "./TracksList.tsx";
 import TrackDetail from "./TrackDetail.tsx";
-import {useTrackSelection} from "../BLL/UseTrackSelection.tsx";
+import {useTrackSelection} from "../bll/UseTrackSelection.tsx";
 
 // import {Footer} from "./Footer.tsx";
 

@@ -1,4 +1,4 @@
-import type {TrackListItemOutput} from "../DAL/api.ts";
+import type {TrackListItemOutput} from "../dal/api.ts";
 import styles from "./TracksList.module.css";
 import clsx from "clsx";
 

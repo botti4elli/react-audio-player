@@ -1,4 +1,4 @@
-import {useTrackDetail} from "../BLL/UseTrackDetail.tsx";
+import {useTrackDetail} from "../bll/UseTrackDetail.tsx";
 
 import styles from "./TrackDetail.module.css";
 
